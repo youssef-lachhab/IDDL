@@ -1,5 +1,5 @@
 # observation
-this work is a collaboration with my friend Mohammed Hiddouche. I collaborated with him for his project [translation_with_RNN_deutchToEnglish](https://github.com/hiddouche/NLP) !  
+this work is a collaboration with my friend Mohammed Hiddouche. I collaborated with him for his project [Neural machine translation system](https://github.com/hiddouche/NLP) !  
 
 
 # predict tags on StackOverflow with linear models
