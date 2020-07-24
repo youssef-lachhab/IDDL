@@ -1,4 +1,5 @@
 [video presentation project 1:Predict tags on StackOverflow with linear models](https://drive.google.com/file/d/1ovw8ZOrCeECT2d7_-h-Dcab9zVZQ2uEi/view?usp=sharing) ! 
+[video presentation project 2:Neural machine translation system](https://drive.google.com/file/d/1tZdnwC80mT6wmMkI7xZDyRrq8ynvBn0j/view?usp=sharing)
 
 # observation
 this work is a collaboration with my friend Mohammed Hiddouche. I collaborated with him for his project [Neural machine translation system](https://github.com/hiddouche/NLP) !  
